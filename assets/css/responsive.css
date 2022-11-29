@@ -28,7 +28,7 @@
     background-color: #8a8a8a;
   }
   .navbar-area-two.is-sticky {
-    background: #8a8a8a !important;
+    /* background: #8a8a8a !important; */
   }
   .default-btn {
     padding: 10px 15px;
@@ -1512,10 +1512,10 @@
   .navbar-area-two {
     -webkit-box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
             box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
-    background-color: #8a8a8a;
+    /* background-color: #8a8a8a; */
   }
   .navbar-area-two.is-sticky {
-    background: #8a8a8a !important;
+    /* background: #8a8a8a !important; */
   }
   .mean-container a.meanmenu-reveal {
     width: 35px;

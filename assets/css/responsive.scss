@@ -20,15 +20,16 @@
     }
     .navbar-area {
         // box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
+        background-color: white !important;
     }
     .navbar-area-two {
-        // box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
+        box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
         // background-color: rgb(138, 138, 138);
         // background-color: rgba(0,0,0,.5);
         // background-color: rgba(0,0,0,.5);
-        // &.is-sticky {
-        //     background: rgb(138, 138, 138) !important;
-        // }
+        &.is-sticky {
+            // background: rgb(138, 138, 138) !important;
+        }
     }
     .default-btn {
         padding: 10px 15px;
